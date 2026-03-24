@@ -16,6 +16,7 @@ const config = {
     headers : {
         Accept: "application/json",
         "Content-Type": "application/json",
+        Authentification: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVHJhc2hQYW5kYXMiLCJjcmVhdGVkIjoiMjAyNi0wMy0yNFQxMTo1NDoxNi43MDdaIn0.QgRWBIfIAIgWlGtJFdTCZ2Ehr0zvd6hgb7UlBT3qJ60',
         
     },
 body: JSON.stringify(myTeam),
